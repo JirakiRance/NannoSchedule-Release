@@ -1,6 +1,6 @@
 {
   "show": true,
-  "show_update_btn": true,
+  "show_update_btn": false,
   "id": "notice_20260707_01",
   "version": "v1.3.0.7",
   "date": "2026-07-07",

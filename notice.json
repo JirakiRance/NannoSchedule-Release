@@ -1,15 +1,15 @@
 {
   "show": true,
   "show_update_btn": false,
-  "id": "notice_20260707_01",
-  "version": "v1.3.0.7",
-  "date": "2026-07-07",
+  "id": "notice_20260718_01",
+  "version": "v1.3.0.8",
+  "date": "2026-07-18",
   "notice_content": "如遇到验证码刷新不出来，请尝试连接校园网\n\n新学期课表已经发布，目前有些bug等我月底有空了再修",
   "update_content": "新增「一键评教」",
   "content": "如遇到验证码刷新不出来，请尝试连接校园网\n\n修复了一些内容",
   "term_update": {
-    "version_id": "2025-2026-2-v1",
-    "term": "2025-2026-2",
-    "start_date": "2026-03-02"
+    "version_id": "2026-2027-1-v1",
+    "term": "2026-2027-1",
+    "start_date": "2026-08-24"
   }
 }

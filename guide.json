@@ -1,0 +1,5 @@
+[
+  { "id": "nanjing", "title": "南京校区地图", "icon": "ri-map-2-line", "src": "https://ns-release.jiraki.top/img/NJUST_map_nanjing.jpg", "filename": "NJUST_map_nanjing.jpg" },
+  { "id": "jiangyin", "title": "江阴校区地图", "icon": "ri-map-pin-line", "src": "https://ns-release.jiraki.top/img/NJUST_map_jiangyin.jpg", "filename": "NJUST_map_jiangyin.jpg" },
+  { "id": "calendar", "title": "学年校历", "icon": "ri-calendar-event-line", "src": "https://ns-release.jiraki.top/img/calendar_latest.jpg", "filename": "NJUST_Calendar.jpg" }
+]

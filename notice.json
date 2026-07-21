@@ -1,12 +1,12 @@
 {
   "show": true,
   "show_update_btn": false,
-  "id": "notice_20260718_02",
+  "id": "notice_20260721_01",
   "version": "v1.3.0.8",
-  "date": "2026-07-18",
-  "notice_content": "修复了一些内容",
-  "update_content": "新增「一键评教」",
-  "content": "如遇到验证码刷新不出来，请尝试连接校园网\n\n修复了一些内容",
+  "date": "2026-07-21",
+  "notice_content": "修改登录接口，不需要校园网了，代码已经改好了，待会儿推送更新v1.3.0.9",
+  "update_content": "修改登录接口，不需要校园网了，代码已经改好了，待会儿推送更新v1.3.0.9",
+  "content": "修改登录接口，不需要校园网了，代码已经改好了，待会儿推送更新v1.3.0.9",
   "term_update": {
     "version_id": "2026-2027-1-v1",
     "term": "2026-2027-1",
